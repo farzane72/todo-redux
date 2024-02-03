@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "task": "a",
+      "status": false,
+      "category": "blue",
+      "id": 12
+    },
+    {
+      "task": "b",
+      "status": true,
+      "category": "red",
+      "id": 22
+    },
+    {
+      "task": "m",
+      "status": false,
+      "category": "green",
+      "id": 23
+    },
+    {
+      "task": "test",
+      "status": true,
+      "category": "yellow",
+      "id": 26
+    }
+  ]
+}
